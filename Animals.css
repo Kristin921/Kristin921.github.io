@@ -1,0 +1,120 @@
+#wt{font-size:350%;background-color:yellow;}
+#pic{width:1400px;height:600px}
+#s{font-family: quicksand ;color: rgb(66, 218, 245); font-size: 200%}
+.first{ width: 600px;
+            height: 500px;
+            display:inline-block;
+            text-align: center;}
+body{background-color: black;}
+#link{color:red;}
+#link:hover{color:blue}
+.second{font-size:300% ;color:white;border-style: outset; background-color: pink;}
+.second:hover{color:yellow;background-color: white;}
+#zz{font-size:200% ;font-family: Raleway;color:rgb(66, 218, 245)}
+#ss{font-size:350%;background-color:yellow;color:red;}
+#bb{background-color: rgb(255, 128, 0);}
+#aa{font-size: 350%;background-color:white }
+.videoa{width:500px; height:500px}
+.ww{font-family: quicksand ; font-size: 200%;border-style: outset;background-color: black;color: white;}
+a{font-family: quicksand ;
+    font-size: 250%;
+    text-decoration: none;
+}
+.xx{        text-align: center;
+            width: 30%;
+            height: 100px;
+            background-color:lightblue;
+            text-align: center;
+            display:inline-block;
+            margin-bottom:-38px;
+            border-style: outset;}
+            .xx:hover{background-color: black;
+                opacity: 0.5}
+            
+            .o{color: red;}
+            .o:hover{color:blue}
+#nn{background-color: rgb(66, 218, 245)}
+#mm{font-size: 350%}
+#largest{background-color: white;font-size: 260%;color:orange;}
+#ii{background-color: white;}
+#vv{font-size:350%;color:black;}
+#cc{font-size: 120%}
+#ee{background-color: grey;}
+
+
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: sticky;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
